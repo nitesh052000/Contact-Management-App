@@ -52,7 +52,7 @@ const SideBar = () => {
               </li>
               <li className=" rounded-sm">
                 <Link
-                  to="/"
+                  to="https://github.com/nitesh052000/Contact-Management-App.git"
                   className="flex items-center p-2 space-x-3  rounded-md hover:font-outline"
                 >
                   <svg
